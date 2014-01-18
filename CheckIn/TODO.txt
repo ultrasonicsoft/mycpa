@@ -1,0 +1,5 @@
+﻿* Need to reflect customer booking in CPA 
+* Need to change all event realted code for new table
+* Modify event form
+ <!--connectionString="Data Source=localhost;Initial Catalog=TestDB3;Integrated Security=True"-->
+ test
